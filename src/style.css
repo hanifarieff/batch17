@@ -1,0 +1,13 @@
+p {
+    color : blue;
+    font-family: monospace;
+}
+
+.red{
+    color: red;
+    font-size: 25px;
+}
+
+#name{
+    font-size: 30px;
+}
